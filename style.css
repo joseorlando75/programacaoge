@@ -1,21 +1,23 @@
 body{
-	background-color:grey ;
+	background-color: EDE0DE;
 }
-.textoprincipal{background-color: hotpink;}
+.textoprincipal{background-color: inherit;}
 
 h1{ 
 	text-align: center; 
 	color: blue;
 }
 h2{ 
-	text-align: center; 
-	color: red;
+	text-align: justify-all; 
+	color: black;
 }
 
 #comida { height: 100px; }
 p { text-align: justify; 
 	color: floralwhite;
 }
-.itens {font-size: 14px; text-align: left;}
+.itens {font-size: 14px; text-align: left; color: blue}
 
 li::marker{content."\2764"}
+
+#make {width: 30%;}
